@@ -7,3 +7,22 @@
   background-color: #0077b6;
   width: 100%;
 }
+@font-face {
+  font-family: "Subtitulos";
+  src: url("../fonts/MYRIADPRO-REGULAR.OTF");
+}
+h1 {
+  font-family: "Subtitulos", sans-serif;
+
+  text-align: center;
+}
+@font-face {
+  font-family: "textos";
+  src: url("../fonts/arial/arialceb.ttf");
+}
+h1 {
+  font-family: "textos", sans-serif;
+
+  text-align: center;
+}
+
