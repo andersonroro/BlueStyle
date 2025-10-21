@@ -33,3 +33,16 @@ h1 {
   object-fit: cover;
   display: inline-block;
 }
+
+/* Botón azul oscuro personalizado */
+.btn-azul-oscuro {
+  background-color: #0077b6;
+  color: #ffffff;
+  border: 1px solid #0077b6;
+}
+.btn-azul-oscuro:hover,
+.btn-azul-oscuro:focus {
+  background-color: #0077b6;
+  color: #fff;
+  border-color: #0077b6;
+}
